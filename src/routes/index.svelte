@@ -149,7 +149,7 @@
         <div class="text">
             <h6>{leagueName}</h6>
             <p>Welcome to the Bros before hoes Dynasty league.</p>
-	    <p>"I'm not superstitous,but I am a little stitous."- Michael Scott</p>
+	    <p>"I'm not superstitious,but I am a little stitious."- Michael Scott</p>
         </div>
         <PowerRankings />
     </div>
