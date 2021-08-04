@@ -149,7 +149,7 @@
         <div class="text">
             <h6>{leagueName}</h6>
             <p>Welcome to the Bros before hoes Dynasty league.</p>
-	    <p>"I never make the same mistake twice. I make it five or six times, just to be sure."</p>
+	    <p>"I'm not superstitous, but I am a little stitous." - Michael Scott</p>
         </div>
         <PowerRankings />
     </div>
