@@ -4,7 +4,7 @@ export const rosterManagers = {
     3: 5,
     4: 4,
     5: 9,
-    6: 0,
+    6: 5,
     7: 2,
     8: 8,
     9: 3,
