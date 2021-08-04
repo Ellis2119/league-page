@@ -1,7 +1,7 @@
 // 3 managers as an example (remove the // before each line to make it live code)
 export const managers = [
   {
-    "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Lasean",
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Arizona",
@@ -45,7 +45,7 @@ export const managers = [
     "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
   },
   {
-    "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Gaeton",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Minnesota",
@@ -67,7 +67,7 @@ export const managers = [
     "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
   },
   {
-    "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "TJ",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "KC",
@@ -89,7 +89,7 @@ export const managers = [
     "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
   },
   {
-    "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Luke",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Wentzville",
@@ -111,7 +111,7 @@ export const managers = [
     "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
   },
   {
-    "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Ellis",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Kansas",
@@ -133,7 +133,7 @@ export const managers = [
     "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
   },
   {
-    "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Meech",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "STL",
@@ -155,7 +155,7 @@ export const managers = [
     "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
   },
   {
-    "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Nate",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Seattle",
@@ -177,7 +177,7 @@ export const managers = [
     "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
   },
   {
-    "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Orie",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Columbia",
@@ -199,7 +199,7 @@ export const managers = [
     "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
   },
   {
-    "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Brett",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "KC",
