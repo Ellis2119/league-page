@@ -74,7 +74,7 @@ export const managers = [
     "bio": "I like trash",
     "photo": "/managers/name.jpg", // done
     "fantasyStart": 2014, // when did the manager start playing fantasy football
-    "favoriteTeam": "kc", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+    "favoriteTeam": "lar", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
     "rival": {
       name: "Rival", // Can be anything (usually your rival's name)
@@ -140,7 +140,7 @@ export const managers = [
     "bio": "I like Brock Osweiler.",
     "photo": "/managers/name.jpg", // done
     "fantasyStart": 2014, // when did the manager start playing fantasy football
-    "favoriteTeam": "la", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+    "favoriteTeam": "lar", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
     "rival": {
       name: "Rival", // Can be anything (usually your rival's name)
