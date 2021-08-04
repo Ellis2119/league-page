@@ -5,7 +5,7 @@ export const managers = [
     "name": "Lasean",
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Arizona",
-    "bio": "Lorem ipsum...",
+    "bio": "Big Baller",
     "photo": "/managers/name.jpg", // done
     "fantasyStart": 2014, // when did the manager start playing fantasy football
     "favoriteTeam": "kc", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -26,7 +26,7 @@ export const managers = [
     "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Harley",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    "location": "Kansas City",
+    "location": "KC",
     "bio": "Lets Go",
     "photo": "/managers/name.jpg", // done
     "fantasyStart": 2014, // when did the manager start playing fantasy football
@@ -70,7 +70,7 @@ export const managers = [
     "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "TJ",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    "location": "Kansas City",
+    "location": "KC",
     "bio": "I like trash",
     "photo": "/managers/name.jpg", // done
     "fantasyStart": 2014, // when did the manager start playing fantasy football
@@ -108,7 +108,7 @@ export const managers = [
     "rookieOrVets": "Rookies", // 'Rookies' or 'Vets'
     "philosophy": "Your fantasy team's philosophy",
     "tradingScale": 10, // 1 - 10
-    "prefferedContact": "Carrier Pigeon", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
+    "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
   },
   {
     "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
@@ -130,13 +130,13 @@ export const managers = [
     "rookieOrVets": "Rookies", // 'Rookies' or 'Vets'
     "philosophy": "Your fantasy team's philosophy",
     "tradingScale": 10, // 1 - 10
-    "prefferedContact": "Carrier Pigeon", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
+    "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
   },
   {
     "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Meech",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    "location": "Saint Louis",
+    "location": "STL",
     "bio": "I like Brock Osweiler",
     "photo": "/managers/name.jpg", // done
     "fantasyStart": 2014, // when did the manager start playing fantasy football
@@ -202,7 +202,7 @@ export const managers = [
     "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Brett",
     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    "location": "Kansas City",
+    "location": "KC",
     "bio": "Discount Double Check",
     "photo": "/managers/name.jpg", // done
     "fantasyStart": 2014, // when did the manager start playing fantasy football
