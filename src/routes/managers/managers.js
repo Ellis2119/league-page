@@ -10,7 +10,7 @@ export const managers = [
     "fantasyStart": 2014, // when did the manager start playing fantasy football
     "favoriteTeam": "kc", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
-    "rival": {null
+    "rival": {
       name: "Rival", // Can be anything (usually your rival's name)
       link: 6, // manager array number within this array, or null to link back to all managers page
       image: "/managers/rival.jpg", // either a specific manager photo or 'everyone' or 'question'
@@ -32,7 +32,7 @@ export const managers = [
     "fantasyStart": 2014, // when did the manager start playing fantasy football
     "favoriteTeam": "kc", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
-    "rival": {null
+    "rival": {
       name: "Rival", // Can be anything (usually your rival's name)
       link: 6, // manager array number within this array, or null to link back to all managers page
       image: "/managers/rival.jpg", // either a specific manager photo or 'everyone' or 'question'
@@ -54,7 +54,7 @@ export const managers = [
     "fantasyStart": 2014, // when did the manager start playing fantasy football
     "favoriteTeam": "min", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
-    "rival": {null
+    "rival": {
       name: "Rival", // Can be anything (usually your rival's name)
       link: 6, // manager array number within this array, or null to link back to all managers page
       image: "/managers/rival.jpg", // either a specific manager photo or 'everyone' or 'question'
@@ -76,7 +76,7 @@ export const managers = [
     "fantasyStart": 2014, // when did the manager start playing fantasy football
     "favoriteTeam": "stl", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
-    "rival": {null
+    "rival": {
       name: "Rival", // Can be anything (usually your rival's name)
       link: 6, // manager array number within this array, or null to link back to all managers page
       image: "/managers/rival.jpg", // either a specific manager photo or 'everyone' or 'question'
@@ -98,7 +98,7 @@ export const managers = [
     "fantasyStart": 2014, // when did the manager start playing fantasy football
     "favoriteTeam": "gb", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
-    "rival": {null
+    "rival": {
       name: "Rival", // Can be anything (usually your rival's name)
       link: 6, // manager array number within this array, or null to link back to all managers page
       image: "/managers/rival.jpg", // either a specific manager photo or 'everyone' or 'question'
@@ -120,7 +120,7 @@ export const managers = [
     "fantasyStart": 2014, // when did the manager start playing fantasy football
     "favoriteTeam": "lac", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
-    "rival": {null
+    "rival": {
       name: "Rival", // Can be anything (usually your rival's name)
       link: 6, // manager array number within this array, or null to link back to all managers page
       image: "/managers/rival.jpg", // either a specific manager photo or 'everyone' or 'question'
@@ -142,7 +142,7 @@ export const managers = [
     "fantasyStart": 2014, // when did the manager start playing fantasy football
     "favoriteTeam": "stl", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
-    "rival": {null
+    "rival": {
       name: "Rival", // Can be anything (usually your rival's name)
       link: 6, // manager array number within this array, or null to link back to all managers page
       image: "/managers/rival.jpg", // either a specific manager photo or 'everyone' or 'question'
@@ -164,7 +164,7 @@ export const managers = [
     "fantasyStart": 2014, // when did the manager start playing fantasy football
     "favoriteTeam": "sea", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
-    "rival": {null
+    "rival": {
       name: "Rival", // Can be anything (usually your rival's name)
       link: 6, // manager array number within this array, or null to link back to all managers page
       image: "/managers/rival.jpg", // either a specific manager photo or 'everyone' or 'question'
@@ -186,7 +186,7 @@ export const managers = [
     "fantasyStart": 2014, // when did the manager start playing fantasy football
     "favoriteTeam": "kc", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
-    "rival": {null
+    "rival": {
       name: "Rival", // Can be anything (usually your rival's name)
       link: 6, // manager array number within this array, or null to link back to all managers page
       image: "/managers/rival.jpg", // either a specific manager photo or 'everyone' or 'question'
@@ -208,7 +208,7 @@ export const managers = [
     "fantasyStart": 2014, // when did the manager start playing fantasy football
     "favoriteTeam": "gb", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
-    "rival": {null
+    "rival": {
       name: "Rival", // Can be anything (usually your rival's name)
       link: 6, // manager array number within this array, or null to link back to all managers page
       image: "/managers/rival.jpg", // either a specific manager photo or 'everyone' or 'question'
